@@ -3,6 +3,26 @@
     padding: 0;
 
 }
+escola-titulo{
+    padding: 24%;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.cabecalho {
+    background-color: rgb(255, 0, 200);
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
+
 .Cupcake-Paradise {
     background-color: rgb(241, 22, 113);
     color: azure;
@@ -21,4 +41,12 @@
     display:  inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image
 }
